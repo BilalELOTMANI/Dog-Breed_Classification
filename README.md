@@ -31,12 +31,17 @@ To get started with this project, you need to have Python installed on your syst
 
 ```bash
 pip install -r requirements.txt
-'''
+```
+
 Make sure you have the following dependencies:
 
-TensorFlow
-Keras
-NumPy
-OpenCV
-Matplotlib
-Pandas
+- TensorFlow
+- Keras
+- NumPy
+- OpenCV
+- Matplotlib
+- Pandas
+
+## Results
+
+The model achieves a significant accuracy in classifying dog breeds. The performance can be improved further by fine-tuning the model, using data augmentation, or experimenting with different architectures.
