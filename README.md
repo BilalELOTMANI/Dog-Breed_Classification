@@ -27,12 +27,6 @@ The model used in this project is a Convolutional Neural Network (CNN). The arch
 
 ## Installation
 
-To get started with this project, you need to have Python installed on your system. Additionally, you need to install the required libraries. You can do this by running:
-
-```bash
-pip install -r requirements.txt
-```
-
 Make sure you have the following dependencies:
 
 - TensorFlow
